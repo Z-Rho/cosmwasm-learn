@@ -1,0 +1,2 @@
+396f2b1f9d54ac9ebf608cd03127c7f57291e04a463430248af3d3f94e9398e1  cosmwasm_learn.wasm
+02ed024a4318cbb47bb01544cd602beede8c16a9b1fddabfae0461f5ec93b540  my_first_contract_bitesdigital_yt.wasm

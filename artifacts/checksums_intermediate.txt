@@ -1,0 +1,2 @@
+8478b05b63e34aacc97d7652a5656c095e9bea6fe0fa3afb4ab692e6d517851a  ./target/wasm32-unknown-unknown/release/cosmwasm_learn.wasm
+ef6f25980d09970ffb1e114e6bb3939ce5f6df9eb36d122e0e6736a33324bd04  ./target/wasm32-unknown-unknown/release/my_first_contract_bitesdigital_yt.wasm
